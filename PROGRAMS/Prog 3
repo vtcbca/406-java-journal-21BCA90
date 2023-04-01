@@ -1,0 +1,5 @@
+ Design a class Cricketer having data member name and a number of matches and appropriate member function to set the values. Derived two classes Batsman and
+
+Bowler from cricketer class with data member total number of runs and wickets respectively. Batsman class is having method to calculate average wicket. Write a
+
+program to create two objects and display information of one batsman and bowler along with average run and wicket.

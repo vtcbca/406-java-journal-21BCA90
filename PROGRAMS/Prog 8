@@ -1,0 +1,1 @@
+Write a java application which accepts 10 names of student and their age. Sort names and age in descending order at an interval of 1 second using thread.

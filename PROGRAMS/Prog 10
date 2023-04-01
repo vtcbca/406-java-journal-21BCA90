@@ -1,0 +1,13 @@
+ Create a class namely Book to maintain Book details like id, name, quantity and author using singly linked list. Perform following operations on book list:
+
+a. Add book details in the begging of the list
+
+b. Add book details at the end of the list
+
+c. Add book detail at particular position
+
+d. Remove first book detail from the list
+
+e. Remove last book detail from the list
+
+f. Display all book details in the list

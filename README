@@ -1,0 +1,25 @@
+How To Submit Your Solution?
+=============================
+
+1. Create one folder "Solution".
+
+2. Give filename as "Solution 1 " for "Prog 1", same to follow for other files.
+
+
+*NOTE:*
+
+You have to evalute programs of other 10 students and give comment on other students program. 
+
+Give Proper comment related with program. Like suggestion to write other statement instead he/she write.
+
+Also check there is proper comment given in program or not, if not suggest to comment on each section of program where commenting required.
+
+
+How To Comment On Other Program?
+================================
+
+Click on "vtcbca" in your repo name, Where other repo are listed.
+
+Select or search repo of student.
+
+Go inside the repo , select pull request ---> New pull request --> Give Comment

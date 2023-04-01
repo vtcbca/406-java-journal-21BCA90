@@ -1,0 +1,9 @@
+Design a class MyString having a data member of type String and add member functions to achieve following task.
+
+(i) Reverse string 
+
+(ii) String in Titlecase. 
+
+(iii) Extract N-characters from right-end of the string 
+
+Write a menu driven program to call these methods of MyString class. The program should not terminate abruptly.

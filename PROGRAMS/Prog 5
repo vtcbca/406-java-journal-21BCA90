@@ -1,0 +1,1 @@
+Write a program that will accept a number from command line and raise a user defined exception if the number consists of odd number of digits.

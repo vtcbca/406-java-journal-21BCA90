@@ -1,0 +1,2 @@
+Write a program which accepts starting character and ending character. Display one by one character from starting character till the ending character at the interval
+of one second using thread.
